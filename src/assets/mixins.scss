@@ -1,0 +1,9 @@
+@mixin font-roboto-condensed-regular {
+    font-family: $font-family-robotocondensed-regular;
+    font-weight: $font-weight-robotocondensed-regular;
+}
+
+@mixin font-roboto-condensed-bold {
+    font-family: $font-family-robotocondensed-bold;
+    font-weight: $font-weight-robotocondensed-bold;
+}

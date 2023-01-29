@@ -1,0 +1,4 @@
+@import './base.scss';
+
+.font-title { @include font-roboto-condensed-bold }
+.font-p { @include font-roboto-condensed-regular }
