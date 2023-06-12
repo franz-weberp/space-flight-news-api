@@ -1,6 +1,4 @@
-# Space Flight News - Franz Weber Pimentel
-> **This is a challenge by [Coodesh](https://coodesh.com/)**
-
+# Space Flight News - Demo: https://steady-elf-b5f45f.netlify.app/
 O projeto se trata de um feed de notícias relacionadas ao espaço sideral e assuntos satélites ao tema.
 
 Utilizando a API Spaceflight News API (https://api.spaceflightnewsapi.net/v3/documentation) que agrega notícias de diversos portais de notícias
